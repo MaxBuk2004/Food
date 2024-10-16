@@ -1,2 +1,2 @@
-Maksymilian Bukowski
-Sebastian Duda
+- Maksymilian Bukowski
+- Sebastian Duda
